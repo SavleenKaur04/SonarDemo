@@ -13,8 +13,8 @@
         <maven.compiler.target>22</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <!-- SonarCloud properties -->
-        <sonar.projectKey>your-username_SonarDemo</sonar.projectKey>
-        <sonar.organization>your-sonarcloud-org</sonar.organization>
+        <sonar.projectKey>SavleenKaur04_SonarDemo</sonar.projectKey>
+        <sonar.organization>savleenkaur04</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
 
