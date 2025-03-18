@@ -20,7 +20,7 @@
 
         <!-- SonarCloud properties -->
         <sonar.projectKey>SavleenKaur04_SonarDemo</sonar.projectKey>
-        <sonar.organization>savleenkaur04</sonar.organization>
+        <sonar.organization>SavleenKaur04</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
 
